@@ -9,7 +9,7 @@ In this project developed a counter game in which you can click a button to incr
 This you can play with your friends and challenge them to click click click... as much as possible in a given time.
 
 #### [002 - custom-form]
-In this project developed a reusable custom form component in which you can add as much input fields and buttons as you want. You can use that component in your future projects too to have a login form, registration form or a data creation/updation form for any CRUD functionality.
+In this project developed a reusable custom form component in which you can add as much input fields and buttons as you want.
 
 #### [003 - tic-tac-toe]
 In this project developed a tic-tac-toe game using react basic concepts with little JS programming logic around that.
